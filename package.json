@@ -1,0 +1,15 @@
+{
+  "name": "realtimeupdatesviz",
+  "version": "0.1.0",
+  "description": "A small demo to validate the concept of pushing updates from server to browser",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robbert Zijp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "windows-cpu": "^0.1.4"
+  }
+}
